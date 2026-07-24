@@ -1,0 +1,17 @@
+name: tracing-opentelemetry
+version: 0.1.0
+
+authors:
+  - Dominic Sisneros <dsisnero@gmail.com>
+
+crystal: ">= 1.20.2"
+
+license: MIT
+
+dependencies:
+  tracing:
+    github: dsisnero/tracing.cr
+    branch: codex-tracing-opentelemetry-split
+  opentelemetry-sdk:
+    github: dsisnero/opentelemetry-sdk.cr
+    branch: codex/crystal-1.21-compat
