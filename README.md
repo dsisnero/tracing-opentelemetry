@@ -5,7 +5,7 @@ Optional OpenTelemetry bridge for
 
 ## Installation
 
-Install from the current `tracing.cr` main branch:
+Install with the compatible `tracing.cr` release selected by your application:
 
 ```yaml
 dependencies:

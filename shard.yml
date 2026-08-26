@@ -11,7 +11,6 @@ license: MIT
 dependencies:
   tracing:
     github: dsisnero/tracing.cr
-    branch: main
   opentelemetry-sdk:
     github: dsisnero/opentelemetry-sdk.cr
     branch: codex/crystal-1.21-compat
