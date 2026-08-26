@@ -5,13 +5,13 @@ Optional OpenTelemetry bridge for
 
 ## Installation
 
-Current branch-compatible install:
+Install from the current `tracing.cr` main branch:
 
 ```yaml
 dependencies:
   tracing:
     github: dsisnero/tracing.cr
-    branch: codex-tracing-opentelemetry-split
+    branch: main
   tracing-opentelemetry:
     github: dsisnero/tracing-opentelemetry
 ```
